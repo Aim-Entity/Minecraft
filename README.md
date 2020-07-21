@@ -1,6 +1,6 @@
 # Minecraft
 
-How To Run:
+How To Run
 
 git init
 pip install pyglet 
